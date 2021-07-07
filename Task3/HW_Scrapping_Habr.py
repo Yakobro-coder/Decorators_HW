@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-import Decorator_Task_3
+from Task3 import Decorator_Task_3
 
 keywords = ['дизайн', 'фото', 'web', 'python']
 # Иногда в ленте нету совподений, ниже набор для тестов
